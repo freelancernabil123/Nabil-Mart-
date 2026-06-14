@@ -1,0 +1,6 @@
+{
+  "name": "Nabil Mart",
+  "description": "Discover fresh groceries, organic food, daily essentials, and household items at Nabil Mart. Elegant and offline-first e-commerce app experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
